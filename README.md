@@ -12,8 +12,8 @@ But when we do launch, we're gonna be a Game Server, VPS, and Web Hosting servic
 [**YouTube**](https://www.youtube.com/channel/UCRQkYdK5a5SXy1RH_4JCX9g)  
  
 # Download 
-So far there's only a [Download](https://github.com/Atlas7005/fh-rpc/releases/latest) for Windows.  
-When it's downloaded, all you have to do is launch the `fh-rpc.exe` file. 
+You can find our downloads [here](https://github.com/Atlas7005/fh-rpc/releases/latest). We have for Linux, MacOS, and Windows. Although, only Windows has been tested.
+When it's downloaded, all you have to do is launch the file.
  
 # Funding 
 If you wish to help us fund the project, you can do so by donating to our [Donorbox](https://donorbox.org/firewave-hosting-initial-funding) page.  
