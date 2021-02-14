@@ -1,0 +1,23 @@
+{
+  "name": "fh-rpc",
+  "version": "1.0.0",
+  "description": "A rich presence for Discord, advertising Firewave Hosting.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Atlas7005/fh-rpc.git"
+  },
+  "keywords": [],
+  "author": "Atlas <atlas@twplayer.co>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Atlas7005/fh-rpc/issues"
+  },
+  "homepage": "https://github.com/Atlas7005/fh-rpc#readme",
+  "dependencies": {
+    "discord-rpc": "^3.2.0"
+  }
+}
